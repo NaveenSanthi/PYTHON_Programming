@@ -1,0 +1,13 @@
+a=10
+b=5
+c=1
+d=14
+e=1
+f=11
+g=1
+h=16
+i=1
+j=30
+print(a+b+c+d+e+f+g+h)
+print(a/b/c/d/e/f/g/h)
+print(a*b*c*d*e*f*g*h)
