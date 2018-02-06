@@ -1,0 +1,1 @@
+print("hello {0},{1},{2}".format("haai","naveen","welcome"))
